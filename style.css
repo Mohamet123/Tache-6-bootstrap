@@ -223,7 +223,7 @@
 }
 
 ._y{
-    border: 1px solid black;
+    border: 1px solid rgb(51, 214, 92);
     display: flex;
     flex-direction: column;
     gap: 30px;
@@ -264,7 +264,69 @@
 /*------------------------FIN Section Nos activités--------*/
 
 /*------------------------FIN Section Nos partenaires--------*/
-
+#nos-partenaires{
+    background-color: rgb(169, 250, 223);
+}
+.part{
+    background-color: white;
+    height: 170px;
+    width: 170px;
+    border-radius: 20px;
+    box-shadow: 0 4px 0 gainsboro;
+    background-image: url(logo1.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.part1 {
+    background-color: white;
+    height: 170px;
+    width: 170px;
+    border-radius: 20px;
+    box-shadow: 0 4px 0 gainsboro;
+    background-image: url(logo2.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.part2 {
+    background-color: white;
+    height: 170px;
+    width: 170px;
+    border-radius: 20px;
+    box-shadow: 0 4px 0 gainsboro;
+    background-image: url(logo3.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.part3 {
+    background-color: white;
+    height: 170px;
+    width: 170px;
+    border-radius: 20px;
+    box-shadow: 0 4px 0 gainsboro;
+    background-image: url(logo4.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.part4 {
+    background-color: white;
+    height: 170px;
+    width: 170px;
+    border-radius: 20px;
+    box-shadow: 0 4px 0 gainsboro;
+    background-image: url(logo5.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.part5 {
+    background-color: white;
+    height: 170px;
+    width: 170px;
+    border-radius: 20px;
+    box-shadow: 0 4px 0 gainsboro;
+    background-image: url(logo6.png);
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
 /*------------------------FIN Section Nos partenaires--------*/
 
 
@@ -288,5 +350,17 @@
         
     
     }
+    .parts {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+}
+@media screen and (max-width: 620px){ 
+ .parts {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+ }
 }
 /*------------------------FIN responsivités--------*/
