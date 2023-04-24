@@ -1,0 +1,292 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+/*------------------------Section Navbar--------*/
+.navbar-brand img{
+    height: 100px;
+    padding-left: 20px;
+}
+#navbarNav{
+    margin-right: 100px;
+}
+.nav-item button{
+    border: none;
+    background-color: rgb(253, 196, 8);
+    padding: 8px;
+    color: #fff;
+    margin-right: 10px;
+    width: 170px;
+}
+/*------------------------Fin Section Navbar--------*/
+
+/*------------------------Section BANNER--------*/
+._m{
+    background: linear-gradient(to right,rgb(8, 82, 92), rgb(4, 133, 127));
+   
+    color: #fff;
+    
+}
+._m button{
+    background-color: rgba(235, 28, 28, 0.986);
+    color: #fff;
+    width: 120px;
+    border: none;
+    border-radius: 10px;
+}
+._m p{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.bout{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+}
+
+
+/*------------------------FIN Section BANNER--------*/
+/*------------------------ Section Programmation--------*/
+.yu{
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.yu h4{
+    margin-bottom: 40px;
+}
+._m1{
+    background: linear-gradient(to right,rgb(8, 82, 92), rgb(4, 133, 127));
+   
+    color: #fff;
+    
+}
+.f1{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+.f{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding-right: 50px;
+}
+
+._f{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+._f p{
+    margin-top: 5px;
+}
+.yu1{
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+    
+    
+    
+}
+.yu1 p{
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 30px;
+}
+.yu1 button{
+    background-color: rgb(255, 48, 48);
+    color: #fff;
+    width: 120px;
+    border: none;
+    border-radius: 10px;
+}
+/*------------------------FIN Section Programmation--------*/
+
+/*------------------------ Section Nos cours--------*/
+#nos-cours{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+._row1{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+._1{
+    border: 1px solid red;
+    margin-left: -70px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+   
+
+}
+._1 p{
+    font-weight: 700;
+    font-size: 19px;
+    color: red;
+    margin-top: 20px;
+}
+._row1 .img-fluid{
+    width: 100px;
+}
+
+._2{
+    border: 1px solid cadetblue;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+}
+._2 p{
+    font-weight: 700;
+    font-size: 19px;
+    color: rgb(37, 139, 143);
+    margin-top: 20px;
+}
+._3{
+    border: 1px solid orange;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
+._3 p{
+    font-weight: 700;
+    font-size: 19px;
+    color: orange;
+    margin-top: 20px;
+}
+._4{
+    border: 1px solid cadetblue;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
+._4 p{
+    font-weight: 700;
+    font-size: 19px;
+    color: rgb(37, 139, 143) ;
+    margin-top: 20px;
+}
+/*------------------------FIN Section Nos cours--------*/
+
+/*------------------------Section Nos Diplomes--------*/
+.diplome{
+    background-color: rgb(241, 43, 43);
+    margin-top: 30px;
+}
+._E{
+    background-color: rgb(241, 43, 43);
+    margin-top: -30px;
+}
+._E img{
+    width: 100%;
+   
+}
+
+/*------------------------FIN Section Nos Diplomes--------*/
+
+
+/*------------------------ Section Nos coachs--------*/
+.voi{
+    background-color:rgb(241, 43, 43) ;
+    width: 120px;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 4px;
+ 
+}
+._y1{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+._y{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    text-align: center;
+}
+._y2{
+    margin-left: -70px;
+}
+._y span{
+    font-size: 20px;
+    font-weight: bolder;
+}
+._y img{
+    margin-top: 10px;
+}
+
+/*------------------------FIN Section Nos coachs--------*/
+
+/*------------------------Section Nos activités--------*/
+#nos-activites{
+    color: #fff;
+    background-color: rgb(241, 43, 43);
+    padding-bottom: 50px;
+}
+._h{
+    margin-bottom: 50px;
+}
+._h button{
+    margin-top: 70px;
+   margin-left: 37%;
+}
+._j button{
+    margin-top: 70px;
+   margin-left: 37%;
+}
+
+/*------------------------FIN Section Nos activités--------*/
+
+/*------------------------FIN Section Nos partenaires--------*/
+
+/*------------------------FIN Section Nos partenaires--------*/
+
+
+/*------------------------Section footer--------*/
+#footer{
+    margin-top: 30px;
+    background-color: rgb(26, 165, 165);
+    color: #fff;
+}
+/*------------------------FIN Section footer--------*/
+
+/*------------------------responsivité--------*/
+
+@media (max-width: 767px){
+    ._y2{
+        margin-left: 0px;
+    }
+    ._1{
+     
+        margin-left: 0px;
+        
+    
+    }
+}
+/*------------------------FIN responsivités--------*/
