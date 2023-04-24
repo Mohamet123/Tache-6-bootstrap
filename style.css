@@ -273,7 +273,7 @@
     width: 170px;
     border-radius: 20px;
     box-shadow: 0 4px 0 gainsboro;
-    background-image: url(logo1.png);
+    background-image: url(./logo1.png);
     background-repeat: no-repeat;
     background-position: 50%;
 }
@@ -283,7 +283,7 @@
     width: 170px;
     border-radius: 20px;
     box-shadow: 0 4px 0 gainsboro;
-    background-image: url(logo2.png);
+    background-image: url(./logo2.png);
     background-repeat: no-repeat;
     background-position: 50%;
 }
@@ -293,7 +293,7 @@
     width: 170px;
     border-radius: 20px;
     box-shadow: 0 4px 0 gainsboro;
-    background-image: url(logo3.png);
+    background-image: url(./logo3.png);
     background-repeat: no-repeat;
     background-position: 50%;
 }
@@ -303,7 +303,7 @@
     width: 170px;
     border-radius: 20px;
     box-shadow: 0 4px 0 gainsboro;
-    background-image: url(logo4.png);
+    background-image: url(./logo4.png);
     background-repeat: no-repeat;
     background-position: 50%;
 }
@@ -313,7 +313,7 @@
     width: 170px;
     border-radius: 20px;
     box-shadow: 0 4px 0 gainsboro;
-    background-image: url(logo5.png);
+    background-image: url(./logo5.png);
     background-repeat: no-repeat;
     background-position: 50%;
 }
@@ -323,7 +323,7 @@
     width: 170px;
     border-radius: 20px;
     box-shadow: 0 4px 0 gainsboro;
-    background-image: url(logo6.png);
+    background-image: url(./logo6.png);
     background-repeat: no-repeat;
     background-position: 50%;
 }
